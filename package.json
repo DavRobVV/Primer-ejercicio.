@@ -1,0 +1,25 @@
+{
+  "name": "ejercicio",
+  "version": "1.0.0",
+  "description": "Ejercicio de práctica",
+  "main": "Archivo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavRobVV/Primer-ejercicio..git"
+  },
+  "author": "David Robinson Villalvazo Vidrios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavRobVV/Primer-ejercicio./issues"
+  },
+  "homepage": "https://github.com/DavRobVV/Primer-ejercicio.#readme",
+  "dependencies": {
+    "lagrange-points": "^0.1.0"
+  },
+  "devDependencies": {
+    "serve": "^13.0.2"
+  }
+}
